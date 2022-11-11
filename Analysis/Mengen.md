@@ -54,4 +54,4 @@ $$\text{positive Teilmenge: } A^+$$
 
 $$\text{negative Teilmenge: } A^-$$
 
-
+## TODO
