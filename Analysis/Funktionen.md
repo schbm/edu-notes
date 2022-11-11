@@ -74,7 +74,7 @@ Für $n \geq 0$ und $n \in \mathbb{R}$:
 ```math
 \cdot^n =
   \begin{cases}
-     \mathbb{R}^+ \to  \mathbb{R}^1 \\
+     \mathbb{R}^+ \to  \mathbb{R}^+ \\
     x \mapsto x^n
   \end{cases}
 ```
