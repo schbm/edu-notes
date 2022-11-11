@@ -54,4 +54,6 @@ $$\text{positive Teilmenge: } A^+$$
 
 $$\text{negative Teilmenge: } A^-$$
 
+**Weitere Beschreibungen in DMI!
+
 ## TODO
