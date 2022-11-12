@@ -87,3 +87,8 @@ Für $n < 0$ und $n \in \mathbb{R}$:
     x \mapsto  x^n
   \end{cases}
 ```
+Da zum Beispiel $(a^2)^{\frac{1}{2}} = a^{2*\frac{1}{2}} = a^1 = a$ für $a \geq 0$.
+Jedoch für $a < 0$ eribt diese Rechnung $\sqrt{a^2} = |a| = a \lor -a$.
+
+Beispiel $x^{1/2}$ für $D=\mathbb{R}$:
+![Hier ist ein Beispielbild](https://example.com/bild.jpg)
