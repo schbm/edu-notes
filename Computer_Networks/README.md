@@ -15,5 +15,5 @@
     - Trunking
     - Routing
     - NAT
-- Cisco Commands
+- [Cisco Commands](Cisco_CLI_1-8.md)
 ## Unterlagen und Quellen
