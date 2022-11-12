@@ -50,6 +50,8 @@ wenn jede zur 2. Koordinatenachse parallele Gerade den Funktionsgraphen genau ei
 Für $a \geq 0$, dann gilt: $\sqrt{a^2} = a$ oder $\sqrt{a}^2 = a$.
 Für $a < 0$ und gerade Exponenten, dann gilt $\sqrt{a^2} = |a|$
 
+![Wurzelfunktion](https://github.com/schbm/edu-notes/blob/main/Analysis/Wurzelfunktion.PNG?raw=true)
+
 ## Potenzfunktion
 Für $n \geq 0$ und ganzzahlig:
 ```math
@@ -91,4 +93,4 @@ Da zum Beispiel $(a^2)^{\frac{1}{2}} = a^{2*\frac{1}{2}} = a^1 = a$ für $a \geq
 Jedoch für $a < 0$ eribt diese Rechnung $\sqrt{a^2} = |a| = a \lor -a$.
 
 Beispiel $x^{1/2}$ für $D=\mathbb{R}$:
-![Hier ist ein Beispielbild](https://example.com/bild.jpg)
+![Nicht wohldefinierte Funktion](https://github.com/schbm/edu-notes/blob/main/Analysis/nicht_wohldefiniert.PNG?raw=true)
