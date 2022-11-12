@@ -56,3 +56,7 @@ Jedoch für $a < 0$ eribt diese Rechnung $\sqrt{a^2} = |a| = a \lor -a$.
 
 Beispiel $x^{1/2}$ für $D=\mathbb{R}$:
 ![Nicht wohldefinierte Funktion](https://github.com/schbm/edu-notes/blob/main/Analysis/nicht_wohldefiniert.PNG?raw=true)
+
+## Exponential Funktion
+
+## Logarithmus
