@@ -9,10 +9,10 @@
   - Imports
   - Naming Convention
   - Funktionen
+  -   String Manipulationen
 - Strukturen
   -  Listen
   -  Dictionaries
-  -  String Manipulationen
 -  Files
     -  Lesen
     -  Schreiben
