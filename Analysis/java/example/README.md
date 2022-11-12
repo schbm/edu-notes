@@ -1,4 +1,4 @@
-```
+```java
  /************************** WERTETABELLE *******************************/
 
     /* speedOnSurface Daten aus der Wertetabelle */
