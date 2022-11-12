@@ -31,19 +31,19 @@ $$a \cap  b$$
 $\forall a$ in A oder B auch "A vereinigt B":
 $$a \cup  b$$
 
-### Schreibweise
-#### Aufzählend
+## Schreibweise
+### Aufzählend
 $$ \Set{a,b,c,...,z} \Set{1,2,3,...,69} $$
 
-#### Beschreibend
+### Beschreibend
 $$\set{a \in A\mid a \text{ ist gerade}}$$$
 
-#### Intervalle
+### Intervalle
 $$\text{inklusiver Intervall: } \[ 1,5  \] \text{ oder } \[ 1;5  \]$$
 
 $$\text{exklusiver Intervall: } \( 1,5  \) \text{ oder } \[ 1;5  \]$$
 
-### Definierte Mengen
+## Definierte Mengen
 $$\text{reelle Zahlen: } \mathbb{R}$$
 
 $$\text{ganze Zahlen: } \mathbb{N}$$
@@ -53,7 +53,3 @@ $$\text{leere Mengen: } \emptyset$$
 $$\text{positive Teilmenge: } A^+$$
 
 $$\text{negative Teilmenge: } A^-$$
-
-**Weitere Beschreibungen in DMI!
-
-## TODO
