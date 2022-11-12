@@ -38,5 +38,11 @@ nur einen einzigen Wert auf der 2. Koordinatenachse gibt.
 Oder: Eine Funktionsdefinition ist wohldefiniert,
 wenn jede zur 2. Koordinatenachse parallele Gerade den Funktionsgraphen genau einmal schneidet.
 
-### Funktionen mit einem Computer
-#### TODO
+## Umkehrfunktionen
+### TODO
+
+## Funktionseigenschaften
+### TODO
+
+## Funktionen mit einem Computer
+### TODO
