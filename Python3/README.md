@@ -10,7 +10,7 @@
   - Naming Convention
   - Funktionen
   -   String Manipulationen
-- Strukturen
+- [Strukturen](Strukturen.md)
   -  Listen
   -  Dictionaries
 -  Files
