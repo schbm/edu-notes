@@ -4,7 +4,10 @@
 - Grundlagen
   - Typen
   - Operatoren
+  - Comments
   - Flow Control
+  - Imports
+  - Naming Convention
   - Funktionen
 - Strukturen
   -  Listen
