@@ -12,6 +12,7 @@
   -   String Manipulationen
 - [Strukturen](Strukturen.md)
   -  Listen
+    - Tuples
   -  Dictionaries
 -  Files
     -  Lesen
