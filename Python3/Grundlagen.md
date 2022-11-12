@@ -93,6 +93,19 @@ from utils import bla as blafunc
 ```
 
 ### Naming Convention
+| Type           | Public                       | Internal |
+| -------------- | -----------------------------|----------|
+|Packages | lower_with_under | |
+|Modules | lower_with_under | _lower_with_under |
+|Classes | CapWords | _CapWords |
+|Exceptions | CapWords | |
+|Functions | lower_with_under() | lower_with_under() |
+|Global/Class Constants | CAPS_WITH_UNDER | _CAPS_WITH_UNDER |
+|Global/Class Variables | lower_with_under | _lower_with_under |
+|Instance Variables | lower_with_under | lower_with_under |
+|Method Names | lower_with_under() | lower_with_under() |
+|Function/Method Parameters | lower_with_under | |
+|Local Variables | lower_with_under |  |
 
 
 ## Unterlagen und Quellen
@@ -106,3 +119,4 @@ from utils import bla as blafunc
 - [Flow Control](https://docs.python.org/3/tutorial/controlflow.html)
 - [Modules](https://docs.python.org/3/tutorial/modules.html)
 - [For Loops](https://realpython.com/python-for-loop/)
+- [Naming Convention PEP8](https://peps.python.org/pep-0008/#function-and-variable-names)
