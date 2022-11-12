@@ -1,7 +1,7 @@
 # Python 3
 ![Typ Hierarchie](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/115px-Python-logo-notext.svg.png)
 ## Inhalt
-- Grundlagen
+- [Grundlagen](Grundlagen.md)
   - Typen
   - Operatoren
   - Comments
