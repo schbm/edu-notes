@@ -102,3 +102,7 @@ from utils import bla as blafunc
 - [Basic Data Types in Python](https://realpython.com/python-data-types/)
 - [Variables in Python](https://realpython.com/python-variables/)
 - [Operators and Expressions in Python](https://realpython.com/python-operators-expressions/)
+
+- [Flow Control](https://docs.python.org/3/tutorial/controlflow.html)
+- [Modules](https://docs.python.org/3/tutorial/modules.html)
+- [For Loops](https://realpython.com/python-for-loop/)
