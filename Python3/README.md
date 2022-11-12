@@ -11,9 +11,9 @@
   - Funktionen
   -   String Manipulationen
 - [Strukturen](Strukturen.md)
-  -  Listen
+  - Listen
     - Tuples
-  -  Dictionaries
+  - Dictionaries
 -  Files
     -  Lesen
     -  Schreiben
