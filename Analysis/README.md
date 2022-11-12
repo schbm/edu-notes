@@ -1,4 +1,32 @@
 # Analysis
 ## Inhalt
-- [Funktionen Grundlagen](Funktionen.md)
+- [Funktionen](Funktionen.md)
+  - Grundlagen
+    - Schreibweise
+    - Bild
+    - Graph
+    - Implizite Funktionen
+    - Wohldefiniertheit
+  - Umkehrfunktionen
+  - Funktionseigenschaften
+  - Funktionen mit einem Computer
+  - [Elementare Funktionen](Elementare_Funktionen.md)
+    - Wurzelfunktion
+    - Potenzfunktion
+    - Exponentialfunktion
+    - Logarithmus
+  -  [Trigonometrische_Funktionen](Trigonometrische_Funktionen.md)
+    - Fundamentalbeziehungen
+    - Quadrantenbeziehungen
+    - Additionstheoreme
+    - Doppelwinkel
+    - Sinus / Cosinus
+    - Tangens
+    - Arcus-Funktionen / Umkehrfunktionen
 - [Mengen](Mengen.md)
+  - Begriffe
+  - Schreibweise
+  - Definierte Mengen
+- Gleichungen
+  - Regeln für die Umformungen
+  - Ungleichungen
