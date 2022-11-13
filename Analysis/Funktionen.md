@@ -43,6 +43,46 @@ wenn jede zur 2. Koordinatenachse parallele Gerade den Funktionsgraphen genau ei
 ## Umkehrfunktionen
 ![Begriffe Umkehrfunktion](https://images.gutefrage.net/media/fragen-antworten/bilder/295658895/0_big.webp?v=1541879960000)
 
+$f$ ist injektiv, wenn für alle $x,y \in D$ mit $x \neq y$
+
+$$ f(x) \neq f(y) $$ 
+
+$f$ ist surjektiv, wenn alle Werte aus Z 'erreicht' werden:
+
+$$ Bild(f) = Z $$
+
+$f$ ist bijektiv (und somit umkehrbar), wenn sie surjektiv und injektiv ist:
+```math
+f^{-1} =
+  \begin{cases}
+    Z \to D \\
+    y \mapsto f(x) = y
+  \end{cases}
+```
+
+$$ f^{-1}(f(x)) = x \text{ für alle } x \in D $$
+
+$$ f(f^{-1}(y)) = y \text{ für alle } y \in Z $$
+
+$$ (f^{-1})^{-1} = f $$
+
+### Exponentialfunktion
+
+$$ log_a = exp_a^{-1} $$
+
+### Potenzfunktion
+Für $a > 0$ ist $\sqrt[a]{}$ die Umkehrfunktion:
+
+```math
+pot_a^+ =
+  \begin{cases}
+    \mathbb{R}^+ \to \mathbb{R}^+ \\
+    x \mapsto x^a
+  \end{cases}
+```
+
+$$ \sqrt[a]{*} = (pot_a^+)^{-1} $$
+
 ## Funktionseigenschaften
 ### TODO
 
