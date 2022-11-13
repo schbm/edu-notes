@@ -117,12 +117,10 @@ Für $n < 0$ und $n \in \mathbb{R}$:
 ```
 Da zum Beispiel $(a^2)^{\frac{1}{2}} = a^{2*\frac{1}{2}} = a^1 = a$ für $a \geq 0$.
 Jedoch für $a < 0$ ergibt diese Rechnung $\sqrt{a^2} = |a| = a \lor -a$.
+
 ![Reelle Negative Potenzfunktion](Potenzfunktion_rless0.PNG)
 
-Beispiel $x^{1/2}$ für $D=\mathbb{R}$ (Also keine Funktion, sondern eine Relation):
-![Nicht wohldefinierte Funktion](nicht_wohldefiniert.PNG)
-
-## Exponential Funktion (Reelle)
+## Exponential Funktion
 Für $a \geq 0$ definieren wir$:
 ```math
 exp_a =
@@ -144,10 +142,12 @@ $$ exp_a(0) = 1 $$
 
 $$ exp_a(a) = a $$
 
-Für $a \geq 1$ ist die Funktion streng monoton steigend:
+Für $a \geq 1$ ist die Funktion streng monoton wachsend:
+
 ![Exponentialfunktion aqec1](Exponentialfunktion_ageq1.PNG)
 
-Für $0 < a < 1$ ist die Funktion streng monoton steigend:
+Für $0 < a < 1$ ist die Funktion streng monoton fallend:
+
 ![Exponentialfunktion 0 < a < 1](Exponentialfunktion_aless1.PNG)
 
 ## Logarithmus
