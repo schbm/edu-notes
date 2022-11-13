@@ -41,7 +41,7 @@ Oder: Eine Funktionsdefinition ist wohldefiniert,
 wenn jede zur 2. Koordinatenachse parallele Gerade den Funktionsgraphen genau einmal schneidet.
 
 ## Umkehrfunktionen
-### TODO
+![Begriffe Umkehrfunktion](https://images.gutefrage.net/media/fragen-antworten/bilder/295658895/0_big.webp?v=1541879960000)
 
 ## Funktionseigenschaften
 ### TODO
