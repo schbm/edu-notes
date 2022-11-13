@@ -29,6 +29,8 @@ Menge aller Wertepaare $(x,y)$.
 
 $$ Graph(f) = \set{(x,y) \in D \times Z \mid f(x) = y } $$
 
+![Kartesisches Koordinatensystem](https://www.grund-wissen.de/mathematik/_images/koordinatensystem-kartesisch.png)
+
 ### Implizite Funktionen
 Bei implizit definierten Funktionen müssen Funktionswerte durch lösen einer Gleichung bestimmt werden.
 
