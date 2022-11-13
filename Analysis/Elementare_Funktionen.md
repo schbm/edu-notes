@@ -130,6 +130,8 @@ exp_a =
   \end{cases}
 ```
 
+Rechenregeln mit den Exponentialfunktionen:
+
 $$ exp_a(x+y) = exp_a(x) * exp_a(y) $$
 
 $$ exp_a(x-y) = \frac{exp_a(x)}{exp_a(y)} $$
@@ -151,3 +153,34 @@ Für $0 < a < 1$ ist die Funktion streng monoton fallend:
 ![Exponentialfunktion 0 < a < 1](Exponentialfunktion_aless1.PNG)
 
 ## Logarithmus
+Ist die Umkehrabbildung einer Exponentialfunktion:
+
+```math
+log_b =
+  \begin{cases}
+     \mathbb{R}^+ \backslash \set{0} \to \mathbb{R} \\
+    x \mapsto  \text{ Lösung } y \text{ der Gleichung } b^y = x
+  \end{cases}
+```
+
+Für den natürlichen Logarithmuss schreiben wir:
+
+$$ ln(x) = log_e(x) $$
+
+Rechenregeln mit dem Logarithmus:
+
+$$ a^{log_a(x)} = x $$
+
+$$ log_a(x*y) = log_a(x) - log_a(y) $$
+
+$$ log_a(\frac{x}{y}) = log_a(x) - log_a(y) $$
+
+$$ log_a(x^b) = b * log_a(x) $$
+
+$$ log_a(a^x) = x $$
+
+$$ log_a(1) = 0 $$
+
+$$ log_a(a) = 1 $$
+
+![Logarithmus Funktion](https://img1.studybees.de/content/Mathe-fuer-Wiwis/Funktionen/logarithmus_funktion.jpg)
