@@ -1,5 +1,5 @@
 # Java (SE17)
-![Typ Hierarchie](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/115px-Python-logo-notext.svg.png)
+![Typ Hierarchie](https://neiljbrown.files.wordpress.com/2021/11/java17-image.webp)
 ## Inhalt
 - Grundlagen
   - Packages
