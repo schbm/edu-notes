@@ -101,8 +101,67 @@ subjects1 = ["Transformation", "Potions", "Divination"]  # This is a list
 subjects2 = ("Transformation", "Potions", "Divination")  # This is a tuple
 ```
 
-
 ## Dictionaries
+
+### Declare
+```python
+dict_test = {
+    "hair": "black",
+    "eyes": "green",
+    "feature": "scar",
+}
+eyecolor = dict_test["eyes"]
+dict_test["eyes"] = "brown"
+```
+### Get Keys
+```python
+dict_test.keys()
+```
+### Get Values
+```python
+dict_test.values()
+```
+### Get Items
+```python
+dict_test.items()
+```
+### Check if key exists
+```python
+if "key" in dict_test:
+...
+```
+### Get Value (get defined value if it does not exist)
+```python
+test = dict_test.get("testkey", "value")
+```
+### Set without overriding
+```python
+dict_test.setdefault("key", 69)
+```
+### Delete Item
+```python
+dict_test.pop("hair")
+del dict_test["size"]
+```
+### Comprehension
+```python
+new_dict = {key: value for (key, value) in old_dict.items() if condition}
+```
+### Loop
+```python
+if key, val in dict_test.items():
+...
+```
+
+## Sets
+A set is an unordered, immutable collection of unique elements.
+```python
+set_test = {
+    "bla",
+    "bla1",
+...
+}
+```
 
 ## Unterlagen und Quellen
 - [Lists](https://docs.python.org/3/tutorial/introduction.html#lists)
