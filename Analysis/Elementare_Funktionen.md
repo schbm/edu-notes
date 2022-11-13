@@ -72,7 +72,7 @@ Für $a < 0$ und gerade Exponenten, dann gilt $\sqrt{a^2} = |a|$
 
 ## Potenzfunktion
 
-### Ganzzahlig Positiv
+### Ganzzahlig Positive Potenzfunktion
 Für $n \geq 0$ und ganzzahlig:
 ```math
 \cdot^n =
@@ -81,7 +81,9 @@ Für $n \geq 0$ und ganzzahlig:
     x \mapsto x^n
   \end{cases}
 ```
-### Ganzzahlig Negativ
+![Ganzzahlig Positive Funktion](Potenzfunktion_ngeq0.PNG)
+
+### Ganzzahlig Negative Potenzfunktion
 Für $n < 0$ und ganzzahlig:
 ```math
 \cdot^n =
@@ -91,7 +93,9 @@ Für $n < 0$ und ganzzahlig:
   \end{cases}
 ```
 da $a^{-n} = \frac{1}{a^n}$ und $0^{-n} = \frac{1}{0^n}$ und dies ist nur für $n=0$ definiert da $0^n=1$
+![Ganzzahlig Negative Funktion](Potenzfunktion_nless0.PNG)
 
+### Reelle Positive Potenzfunktion
 Für $n \geq 0$ und $n \in \mathbb{R}$:
 ```math
 \cdot^n =
@@ -100,7 +104,9 @@ Für $n \geq 0$ und $n \in \mathbb{R}$:
     x \mapsto x^n
   \end{cases}
 ```
+![Reelle Positive Funktion](Potenzfunktion_rgeq0.PNG)
 
+### Reelle Negative Potenzfunktion
 Für $n < 0$ und $n \in \mathbb{R}$:
 ```math
 \cdot^n =
@@ -111,10 +117,37 @@ Für $n < 0$ und $n \in \mathbb{R}$:
 ```
 Da zum Beispiel $(a^2)^{\frac{1}{2}} = a^{2*\frac{1}{2}} = a^1 = a$ für $a \geq 0$.
 Jedoch für $a < 0$ ergibt diese Rechnung $\sqrt{a^2} = |a| = a \lor -a$.
+![Reelle Negative Potenzfunktion](Potenzfunktion_rless0.PNG)
 
 Beispiel $x^{1/2}$ für $D=\mathbb{R}$ (Also keine Funktion, sondern eine Relation):
-![Nicht wohldefinierte Funktion](https://github.com/schbm/edu-notes/blob/main/Analysis/nicht_wohldefiniert.PNG?raw=true)
+![Nicht wohldefinierte Funktion](nicht_wohldefiniert.PNG)
 
-## Exponential Funktion
+## Exponential Funktion (Reelle)
+Für $a \geq 0$ definieren wir$:
+```math
+exp_a =
+  \begin{cases}
+     \mathbb{R} \to  \mathbb{R}^+ \backslash \set{0} \\
+    x \mapsto  a^x
+  \end{cases}
+```
+
+$$ exp_a(x+y) = exp_a(x) * exp_a(y) $$
+
+$$ exp_a(x-y) = \frac{exp_a(x)}{exp_a(y)} $$
+
+$$ exp_a(-x) = \frac{1}{exp_a(x)} $$
+
+$$ (exp_a(x))^y = exp_a(x*y) $$
+
+$$ exp_a(0) = 1 $$
+
+$$ exp_a(a) = a $$
+
+Für $a \geq 1$ ist die Funktion streng monoton steigend:
+![Exponentialfunktion aqec1](Exponentialfunktion_ageq1.PNG)
+
+Für $0 < a < 1$ ist die Funktion streng monoton steigend:
+![Exponentialfunktion 0 < a < 1](Exponentialfunktion_aless1.PNG)
 
 ## Logarithmus
