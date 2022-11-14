@@ -148,7 +148,7 @@ del dict_test["size"]
 ```python
 new_dict = {key: value for (key, value) in old_dict.items() if condition}
 ```
-### Loop
+### Iteration
 ```python
 if key, val in dict_test.items():
 ...
