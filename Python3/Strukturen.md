@@ -105,6 +105,7 @@ subjects2 = ("Transformation", "Potions", "Divination")  # This is a tuple
 
 ### Declare
 ```python
+dict_text = dict()
 dict_test = {
     "hair": "black",
     "eyes": "green",
