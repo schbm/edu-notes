@@ -12,6 +12,8 @@
 - Bits are encoded into a pattern of light, sound, or electrical impulses
 - Must be in a appropriate format for the medium
 - Destination must be able to decode signals to interpret the message
+- Defined in standards
+- Depending on the medium are specific encodings more suited
 
 ![Encoding Formats]()
 
@@ -27,12 +29,10 @@
 
 #### Manchester
 
-![Manchester Encoding](manchester.png)
+![Manchester Encoding](manchester.PNG)
 
 - Self clocking
 - G. E. Thomas 1949
-
-TODO
 
 ## Bandwith (Base10)
 Unit | Abbreviation | Equivalence
@@ -42,3 +42,15 @@ Kilobits per second | Kbps | $10^3$ bps
 Megabits per second | Mbps | $10^6$ bps
 Gigabits per second | Gbps | $10^9$ bps
 Terabits per second | Tbps | $10^{12}$ bps
+
+## Layer 2 Interface
+
+![Layer 2 Interface](https://www.acmesystems.it/www/pcb_ethernet/MAC2PHY.png)
+
+![10/100 BASE-TX Transeiver](https://images.ctfassets.net/vne94x762vsn/8gb8YBZqwwGyYyKQs4oMq/6c2d58d685d38c4b816e83928a078a09/ethernet5.png)
+
+## Numbers
+
+### Representation
+
+
