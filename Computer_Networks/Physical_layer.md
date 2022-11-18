@@ -43,7 +43,7 @@ TODO NRZ, RZ, 8b/10b
 ## Frequency
 ![Freqency](https://dam-assets.fluke.com/s3fs-public/6004181-dmm-whatis-frequency-715x360-2.jpg)
 
-## Wireless Concepts
+## Wireless Terms
 ![EM Freqencies](https://rscciew.files.wordpress.com/2013/11/rf-signals1.png?w=500&h=100)
 ### Power and Decibels
 decibels = difference (or ratio) between two signal levels
@@ -68,7 +68,7 @@ For pos. values we say **"gain"** and for neg. values we say **"attenuation"**
 
 ![Overlapping Channels](overlapping_channels.PNG)
 
-## Fiber Concepts
+## Fiber Terms
 TODO
 
 ## Numbers
