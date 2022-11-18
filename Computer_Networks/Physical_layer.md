@@ -16,7 +16,7 @@
 ### Signaling
 - Describes how the bit values are representet on the medium
 - Method will vary based on the medium type
-
+![Signal Processing](signal_processing.PNG)
 ![Signals](https://slideplayer.com/slide/17897684/108/images/9/Purpose+of+the+Physical+Layer+Physical+Layer+Media.jpg)
 
 ![Signal Terms](https://slideplayer.com/slide/13937000/85/images/3/Effects+on+Signal+Attenuation%3A+Distortion%3A+Noise%3A+Error%3A.jpg)
