@@ -19,6 +19,13 @@
     -  Lesen
     -  Schreiben
     -  Verschieben, Löschen, Organisieren
+-  APIs
+    - Parsing Arguments
+    - CSV
+    - JSON
+    - Launching Executables
+    - Web APIs
+    
 ## Unterlagen und Quellen
 - Automate the Boring Stuff with Python (second edition) ISBN 978-3-86490-753-1
   - Free: https://automatetheboringstuff.com/
