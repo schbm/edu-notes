@@ -3,9 +3,10 @@
 ## Inhalt
 - [Fundamentals](Fundamentals.md)
 - [OSI](OSI.md)
-  - Physical 
+  - [Physical](Physical_layer.md)
+    - [Ethernet](Ethernet.md)
   - Data Link
-    - Ethernet
+    - [Ethernet](Ethernet.md)
     - Ethernet Wireless
   - Network
     - IPv4
