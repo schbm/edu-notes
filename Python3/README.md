@@ -15,11 +15,11 @@
   - Tuples
   - Dictionaries
   - Sets
--  Files
+-  [Files](Files.md)
     -  Lesen
     -  Schreiben
     -  Verschieben, Löschen, Organisieren
--  APIs
+-  [APIs](APIs.md)
     - Parsing Arguments
     - CSV
     - JSON
