@@ -13,6 +13,8 @@
 - Must be in a appropriate format for the medium
 - Destination must be able to decode signals to interpret the message
 
+![Encoding Formats]()
+
 ### Signaling
 - Describes how the bit values are representet on the medium
 - Method will vary based on the medium type
@@ -24,6 +26,11 @@
 ### Methods
 
 #### Manchester
+
+![Manchester Encoding](manchester.png)
+
+- Self clocking
+- G. E. Thomas 1949
 
 TODO
 
