@@ -1,5 +1,7 @@
 # OSI
 
+![OSI Model](https://media.fs.com/images/community/upload/kindEditor/202107/29/original-seven-layers-of-osi-model-1627523878-JYjV8oybcC.png)
+
 ## Aufbau
 Layer | Schicht | Desc | Example | Units | Classification
 ------|---------|------|---------|-------|---------------
