@@ -15,8 +15,6 @@
 - Defined in standards
 - Depending on the medium are specific encodings more suited
 
-![Encoding Formats]()
-
 ### Signaling
 - Describes how the bit values are representet on the medium
 - Method will vary based on the medium type
