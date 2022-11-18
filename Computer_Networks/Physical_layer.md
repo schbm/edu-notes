@@ -31,14 +31,45 @@
 
 - Self clocking
 - G. E. Thomas 1949
-- 
-TODO
+
+TODO NRZ, RZ, 8b/10b
 
 ## Layer 2 Interface
 
 ![Layer 2 Interface](https://www.acmesystems.it/www/pcb_ethernet/MAC2PHY.png)
 
 ![10/100 BASE-TX Transeiver](https://images.ctfassets.net/vne94x762vsn/8gb8YBZqwwGyYyKQs4oMq/6c2d58d685d38c4b816e83928a078a09/ethernet5.png)
+
+## Frequency
+![Freqency](https://dam-assets.fluke.com/s3fs-public/6004181-dmm-whatis-frequency-715x360-2.jpg)
+
+## Wireless Concepts
+![EM Freqencies](https://rscciew.files.wordpress.com/2013/11/rf-signals1.png?w=500&h=100)
+### Power and Decibels
+decibels = difference (or ratio) between two signal levels
+
+dBm (dB milliWatt) = signal strength or power level
+$$dBm = 10 * log_{10}(millitwatts)$$
+For pos. values we say **"gain"** and for neg. values we say **"attenuation"**
+- RSSI
+  - Received signal strength indication
+- dBi
+  - Antenna gain compared to isotropic radiator
+- SNR
+  - Signal to noise ratio
+- Receiver Sensitivity
+  - Up to which level signals can be received
+
+### Receiver Powerlevel
+![Receiver Powerlevel](receiver_powerlevel.PNG)
+
+### Overlapping Channels
+![Overlapping Channels Bandwidth](overlapping_channels_bandwidth.PNG)
+
+![Overlapping Channels](overlapping_channels.PNG)
+
+## Fiber Concepts
+TODO
 
 ## Numbers
 
@@ -91,8 +122,6 @@ $$ \implies 0\text{x}64$$
 
 #### Example: Hex - Bin
 Reverse the method explained above.
-
-### Representation
 
 ### Bandwith (Base10)
 Unit | Abbreviation | Equivalence
