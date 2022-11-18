@@ -32,15 +32,6 @@
 - Self clocking
 - G. E. Thomas 1949
 
-## Bandwith (Base10)
-Unit | Abbreviation | Equivalence
------|--------------|------------
-Bits per second | bps | $1$ bps
-Kilobits per second | Kbps | $10^3$ bps
-Megabits per second | Mbps | $10^6$ bps
-Gigabits per second | Gbps | $10^9$ bps
-Terabits per second | Tbps | $10^{12}$ bps
-
 ## Layer 2 Interface
 
 ![Layer 2 Interface](https://www.acmesystems.it/www/pcb_ethernet/MAC2PHY.png)
@@ -50,5 +41,14 @@ Terabits per second | Tbps | $10^{12}$ bps
 ## Numbers
 
 ### Representation
+
+### Bandwith (Base10)
+Unit | Abbreviation | Equivalence
+-----|--------------|------------
+Bits per second | bps | $1$ bps
+Kilobits per second | Kbps | $10^3$ bps
+Megabits per second | Mbps | $10^6$ bps
+Gigabits per second | Gbps | $10^9$ bps
+Terabits per second | Tbps | $10^{12}$ bps
 
 
