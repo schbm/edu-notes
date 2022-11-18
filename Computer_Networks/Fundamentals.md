@@ -63,6 +63,8 @@ TODO
 
 ![Cisco Layered Models](cisco_layered_model.png)
 
+**Differentiate** between **"protocol model"** (typically of specific protocol suit) and **reference model** (describes a broader model independet of its implementation)** e.g OSI
+
 In a layered model the complexity of data comunication of many interacting components (hardware, software, protocols)
 is decompositioned into a number of functional layer where:
 - similar functions should be in the same layer
@@ -77,7 +79,23 @@ is decompositioned into a number of functional layer where:
 - Prevent implementation changes on layers from affecting other layers
 - Common language to describe networking functions and capabilities
 
+### Workings
+
 ![Layered Model](layered_model.PNG)
+
+- Protocol instances talks to its peers
+- Layer communicate only to the adjacent ones
+- At the bottom, messages are carried by the medium
+
+### Encapsulation
+
+- Encapsulation goes from top to bottom
+- Level above processes it and then passes it down until it is sent out as a bit stream
+
+### De-Encapsulation
+
+- Reversed process
+- Header of the layer is stripped and passed to the level above
 
 ## Quellen und Unterlagen
 - [LAN Wiki](https://de.wikipedia.org/wiki/Local_Area_Network)
