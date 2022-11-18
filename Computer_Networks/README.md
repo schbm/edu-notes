@@ -1,8 +1,8 @@
 # Computer Networks
 
 ## Inhalt
-- Fundamentals
-- OSI
+- [Fundamentals](Fundamentals.md)
+- [OSI](OSI.md)
   - Physical 
   - Data Link
     - Ethernet
